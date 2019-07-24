@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "KPI's digital school - Cursos",
-    "currentPage": "temario-curso-online-completo-analitica-web-adwords.html",
+    "currentPage": "programa-temario-curso-online-data-science.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 217,
     "versionPublish": "4.7.2",
@@ -811,7 +811,7 @@
     },
     "programa-curso-gratuito-google-tag-manager.html": {
       "settings": {
-        "meta_descr": "El temario del programa del curso gratuito de Google Tag Manager de nivel iniciación incluye 5 semanas de actividades y casos prácticos. Qué es Tag Manager, implementación de Google Analytics, personalizaciones, creación de eventos, etiquetas de AdWords, Facebook Ads. Solicita el PDF del programa completo",
+        "meta_descr": "El temario del programa del curso gratuito de Google Tag Manager de nivel iniciación incluye 5 semanas de actividades y casos prácticos. Qué es Tag Manager, implementación de Google Analytics, personalizaciones, creación de eventos, etiquetas de Ads, Facebook Ads. Solicita el PDF del programa completo",
         "title": "Programa curso gratuito online de Google Tag Manager | KPIschool",
         "order": 1
       },
@@ -3903,8 +3903,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "KPI's digital school  | Cursos avanzados Analítica Web • Tag Manager • Adwords",
-        "meta_descr": "KPI's digital school ofrece cursos online de Google AdWords, Tag Manager y Analytics. Con 4 diferentes planes, gratuito e intensivos, de nivel básico a intermedio / avanzado. Pide ahora el temario completo",
+        "title": "KPI's digital school  | Cursos Avanzados Analítica digital - Tag Manager - Google Ads",
+        "meta_descr": "KPI's digital school ofrece cursos online de Google Ads, Tag Manager y Analytics. Con 4 diferentes planes, gratuito e intensivos, de nivel básico a intermedio / avanzado. ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -5101,7 +5101,7 @@
     "programa-curso-gratuito-online-google-adwords.html": {
       "settings": {
         "meta_descr": "El temario del programa del curso gratuito de Google Adwords de nivel iniciación incluye 6 semanas de actividades y casos prácticos. Qué es Google AdWords, configuración de campañas, grupos de anuncios, textos, palabras claves. Solicita el PDF del programa completo",
-        "title": "Programa curso gratuito online de Google AdWords | KPIschool",
+        "title": "Programa curso gratuito online de Google Ads | KPIschool",
         "order": 3
       },
       "components": [
@@ -5857,7 +5857,7 @@
     "programa-curso-online-google-adwords-avanzado.html": {
       "settings": {
         "meta_descr": "El temario del programa del curso avanzado online de Google AdWords desde nivel iniciación hasta avanzado incluye 14 semanas de actividades y casos prácticos. Desde interactuar con la interfaz, hasta exportar datos e informes. Integración con Google Analytics. \nSolicita el PDF del programa completo",
-        "title": "Programa curso avanzado de Google AdWords | KPIschool",
+        "title": "Programa curso avanzado de Google Ads | KPIschool",
         "order": 6
       },
       "components": [
@@ -7146,8 +7146,8 @@
     },
     "temario-curso-online-completo-analitica-web-adwords.html": {
       "settings": {
-        "meta_descr": "El temario del curso online completo incluye los programas de y Google Adwords, Google Analytics + Tag Manager incluye más de 60 horas de clases con actividades divididas en 36 semanas. Se hablará del Marketing Digital, SEM, AdWords, analítica web, Tag Manager desde la A a la Z, Solicita el PDF del programa completo",
-        "title": "Temario Máster online Analítica web y AdWords | KPIschool",
+        "meta_descr": "El temario del curso online completo incluye los programas de y Google Ads, Google Analytics + Tag Manager incluye más de 60 horas de clases con actividades divididas en 36 semanas. Se hablará del Marketing Digital, SEM, AdWords, analítica web, Tag Manager desde la A a la Z, Solicita el PDF del programa completo",
+        "title": "Temario Máster online Analítica web y Ads | KPIschool",
         "order": 8
       },
       "components": [
@@ -8110,7 +8110,7 @@
     "programa-temario-curso-online-data-science.html": {
       "settings": {
         "meta_descr": "El programa y temario del curso online de Data Science · Big Data · Data Analytics con Business Intelligence está compuesto de 3 programas diferentes para nivel de iniciación e intermedio, siendo tan amplio el programa, puedes elegir el percorso formativo más de acorde a tu estudios previos. Prueba el test ahora!",
-        "title": "Cursos online Big Data | Business Intelligence | Data Science - KPIschool",
+        "title": "Cursos online Data Science y Data Analytics - KPIschool",
         "order": 9
       },
       "components": [
